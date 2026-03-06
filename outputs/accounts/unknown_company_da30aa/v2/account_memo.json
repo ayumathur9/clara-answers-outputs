@@ -1,0 +1,66 @@
+{
+  "account_id": "unknown_company_da30aa",
+  "company_name": "Clara Answers",
+  "business_hours": {
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "start": "9:00 AM",
+    "end": "5:00 PM",
+    "timezone": "not specified"
+  },
+  "office_address": "not specified",
+  "services_supported": [
+    "AI for answering for business",
+    "Service calls",
+    "calls",
+    "text messaging",
+    "Phone",
+    "Email",
+    "SMS"
+  ],
+  "emergency_definition": [
+    "not specified",
+    "emergency calls",
+    "Spam calls",
+    "Sales calls"
+  ],
+  "emergency_routing_rules": {
+    "contacts": [
+      "Bharat"
+    ],
+    "order": [
+      "Bharat"
+    ],
+    "fallback": "not specified"
+  },
+  "non_emergency_routing_rules": {
+    "flow": "share the number on which the agent will be available and the dashboard",
+    "voicemail": false,
+    "ticket_creation": false
+  },
+  "call_transfer_rules": {
+    "timeout_seconds": null,
+    "retries": null,
+    "fail_message": "not specified"
+  },
+  "integration_constraints": [
+    "not specified",
+    "Not specified"
+  ],
+  "after_hours_flow_summary": "not specified",
+  "office_hours_flow_summary": "not specified",
+  "questions_or_unknowns": [
+    "Can I turn Clara off and on as needed?",
+    "Not specified"
+  ],
+  "notes": "not specified",
+  "version": "v2",
+  "source": "onboarding_call",
+  "created_at": "2026-03-06T08:52:53.749139",
+  "updated_at": "2026-03-06T08:59:13.628213"
+}
