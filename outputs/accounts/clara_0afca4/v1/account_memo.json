@@ -1,0 +1,37 @@
+{
+  "account_id": "clara_0afca4",
+  "company_name": "Clara",
+  "business_hours": {
+    "days": [],
+    "start": "",
+    "end": "",
+    "timezone": ""
+  },
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [],
+  "emergency_routing_rules": {
+    "contacts": [],
+    "order": [],
+    "fallback": ""
+  },
+  "non_emergency_routing_rules": {
+    "flow": "",
+    "voicemail": false,
+    "ticket_creation": false
+  },
+  "call_transfer_rules": {
+    "timeout_seconds": null,
+    "retries": null,
+    "fail_message": ""
+  },
+  "integration_constraints": [],
+  "after_hours_flow_summary": "",
+  "office_hours_flow_summary": "",
+  "questions_or_unknowns": [],
+  "notes": "",
+  "version": "v1",
+  "source": "demo_call",
+  "created_at": "2026-03-06T08:48:31.862805",
+  "updated_at": "2026-03-06T08:48:31.862805"
+}
