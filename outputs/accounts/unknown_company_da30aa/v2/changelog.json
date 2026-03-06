@@ -1,0 +1,167 @@
+{
+  "changes": [
+    {
+      "field": "emergency_routing_rules.contacts",
+      "type": "added",
+      "items": [
+        "Bharat"
+      ]
+    },
+    {
+      "field": "emergency_routing_rules.fallback",
+      "type": "populated",
+      "from": "",
+      "to": "not specified"
+    },
+    {
+      "field": "emergency_routing_rules.order",
+      "type": "added",
+      "items": [
+        "Bharat"
+      ]
+    },
+    {
+      "field": "office_address",
+      "type": "populated",
+      "from": "",
+      "to": "not specified"
+    },
+    {
+      "field": "company_name",
+      "type": "populated",
+      "from": "",
+      "to": "Clara Answers"
+    },
+    {
+      "field": "call_transfer_rules.fail_message",
+      "type": "populated",
+      "from": "",
+      "to": "not specified"
+    },
+    {
+      "field": "business_hours.end",
+      "type": "populated",
+      "from": "",
+      "to": "5:00 PM"
+    },
+    {
+      "field": "business_hours.start",
+      "type": "populated",
+      "from": "",
+      "to": "9:00 AM"
+    },
+    {
+      "field": "business_hours.days",
+      "type": "added",
+      "items": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    },
+    {
+      "field": "business_hours.days",
+      "type": "removed",
+      "items": [
+        "business hours"
+      ]
+    },
+    {
+      "field": "business_hours.timezone",
+      "type": "populated",
+      "from": "",
+      "to": "not specified"
+    },
+    {
+      "field": "emergency_definition",
+      "type": "added",
+      "items": [
+        "not specified",
+        "emergency calls",
+        "Spam calls",
+        "Sales calls"
+      ]
+    },
+    {
+      "field": "office_hours_flow_summary",
+      "type": "updated",
+      "from": "calls are relevant at certain times",
+      "to": "not specified"
+    },
+    {
+      "field": "services_supported",
+      "type": "added",
+      "items": [
+        "AI for answering for business",
+        "Service calls",
+        "calls",
+        "text messaging",
+        "Phone",
+        "Email",
+        "SMS"
+      ]
+    },
+    {
+      "field": "services_supported",
+      "type": "removed",
+      "items": [
+        "service calls",
+        "small jobs",
+        "renovations",
+        "troubleshooting",
+        "full projects",
+        "new customer home",
+        "10 and in fill 10 and improvement building",
+        "EV chargers",
+        "hot to hookups",
+        "panel changes",
+        "residential",
+        "commercial",
+        "electrical work"
+      ]
+    },
+    {
+      "field": "after_hours_flow_summary",
+      "type": "updated",
+      "from": "calls are coming in after hours",
+      "to": "not specified"
+    },
+    {
+      "field": "integration_constraints",
+      "type": "added",
+      "items": [
+        "not specified",
+        "Not specified"
+      ]
+    },
+    {
+      "field": "notes",
+      "type": "populated",
+      "from": "",
+      "to": "not specified"
+    },
+    {
+      "field": "questions_or_unknowns",
+      "type": "added",
+      "items": [
+        "Can I turn Clara off and on as needed?",
+        "Not specified"
+      ]
+    },
+    {
+      "field": "questions_or_unknowns",
+      "type": "removed",
+      "items": [
+        "generators"
+      ]
+    },
+    {
+      "field": "non_emergency_routing_rules.flow",
+      "type": "populated",
+      "from": "",
+      "to": "share the number on which the agent will be available and the dashboard"
+    }
+  ]
+}
