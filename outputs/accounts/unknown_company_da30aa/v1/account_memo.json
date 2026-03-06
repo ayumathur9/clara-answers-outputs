@@ -1,0 +1,55 @@
+{
+  "account_id": "unknown_company_da30aa",
+  "company_name": "",
+  "business_hours": {
+    "days": [
+      "business hours"
+    ],
+    "start": "",
+    "end": "",
+    "timezone": ""
+  },
+  "office_address": "",
+  "services_supported": [
+    "service calls",
+    "small jobs",
+    "renovations",
+    "troubleshooting",
+    "full projects",
+    "new customer home",
+    "10 and in fill 10 and improvement building",
+    "EV chargers",
+    "hot to hookups",
+    "panel changes",
+    "residential",
+    "commercial",
+    "electrical work"
+  ],
+  "emergency_definition": [],
+  "emergency_routing_rules": {
+    "contacts": [],
+    "order": [],
+    "fallback": ""
+  },
+  "non_emergency_routing_rules": {
+    "flow": "",
+    "voicemail": false,
+    "ticket_creation": false
+  },
+  "call_transfer_rules": {
+    "timeout_seconds": null,
+    "retries": null,
+    "fail_message": ""
+  },
+  "integration_constraints": [],
+  "after_hours_flow_summary": "calls are coming in after hours",
+  "office_hours_flow_summary": "calls are relevant at certain times",
+  "questions_or_unknowns": [
+    "generators"
+  ],
+  "notes": "",
+  "version": "v1",
+  "source": "demo_call",
+  "created_at": "2026-03-06T08:52:53.749139",
+  "updated_at": "2026-03-06T08:52:53.749139"
+}
